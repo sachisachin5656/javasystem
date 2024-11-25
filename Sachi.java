@@ -31,6 +31,7 @@ public class Sachi{
     }
 
     public static void main (String args[]){
+        void();
         
     }
 }
